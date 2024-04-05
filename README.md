@@ -8,3 +8,4 @@ A visual coding platform for all
 - litellm: [litellm](https://github.com/BerriAI/litellm)
 - microdag: [hamilton](https://github.com/dagworks-inc/hamilton/)
 - devin: [opendevin](https://github.com/OpenDevin/OpenDevin)
+- ml pipelines: [sematic](https://www.sematic.dev/)
