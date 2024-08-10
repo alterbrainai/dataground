@@ -2,7 +2,7 @@
 A visual coding platform for all
 
 ## Resources
-- Kanban: [taiga](https://taiga.io)
+- Kanban: [plane](https://plane.so/)
 - Git: [gitea](https://about.gitea.com)
 - API:
   - [bruno](https://github.com/usebruno/bruno)
